@@ -1,0 +1,15 @@
+
+
+.gpt3__brand-container{
+    background: #040C18;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.gpt3__brand-container img{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin: 1rem;
+}
