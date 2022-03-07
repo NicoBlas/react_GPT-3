@@ -52,7 +52,9 @@
 }
 
 .gpt3__navbar-links_container :hover{
-    transform: scale(1.1);
+    
+    text-shadow: 0 0 0.5em #DB00FF;
+
 }
 
 .gpt3__navbar-sign button,
