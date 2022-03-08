@@ -115,6 +115,26 @@
     color: #fff;
 }
 
+.gpt3__footer-copyright h1 {
+    font-size: 20px;
+    font-family: var(--font-family);
+    line-height: 15px;
+    color: #fff;
+    font-style: italic;
+    margin-top: 2rem;
+    padding: 1rem;
+    cursor: pointer;
+    
+}
+
+.gpt3__footer-copyright h1:hover{
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
 @media screen and (max-width: 850px) {
     .gpt3__footer-heading h1 {
         font-size: 44px;
